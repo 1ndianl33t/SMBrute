@@ -8,7 +8,7 @@ SMBrute is a program that can be used to bruteforce username and passwords of se
 ```
 $ git clone https://github.com/m4ll0k/SMBrute.git smbrute
 $ cd smbrute
-$ pip3 install pysmb, humanfriendly
+$ pip3 install pysmb humanfriendly
 $ python3 smbrute.py
 ```
 
